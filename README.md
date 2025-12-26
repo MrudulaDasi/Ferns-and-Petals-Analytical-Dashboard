@@ -52,4 +52,4 @@ The dashboard helps answer key business questions and supports **data-driven dec
 
 ## 🖼 Dashboard Preview
 *(Add screenshots of your Excel dashboard here)*
-![Dashboard Overview](dash_Image1.png)
+![Dashboard Overview](/dash_Image1.png)
